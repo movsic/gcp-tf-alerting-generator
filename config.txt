@@ -1,0 +1,32 @@
+artifactregistry.googleapis.com/repository/size: Artifact Registry average daily repository size increased by 20%
+artifactregistry.googleapis.com/repository/request_count: Artifact Registry average daily request count increased by 20%
+bigquery.googleapis.com/query/execution_count: Big Query average daily execution count increased by 20%
+bigquery.googleapis.com/slots/allocated: Big Query average daily slots allocated increased by 20%
+billingbudgets.googleapis.com/quota/budget_count/usage: Budget average daily usage against quota limit increased by 10%
+certificatemanager.googleapis.com/project/certificates: Certificate Manager average daily number of certificates increased by 20%
+cloudfunctions.googleapis.com/function/execution_count: Cloud Functions average daily execution count increased by 20%
+cloudkms.googleapis.com/ekm/external/request_count: Cloud KMS average daily request count increased by 20%
+cloudsql.googleapis.com/database/up: Cloud SQL database is not up / available
+composer.googleapis.com/workload/cpu/usage_time: Composer average daily usage time increased by 20%
+compute.googleapis.com/instance/cpu/utilization: Google Compute Engine CPU utilization over 80% for 51% of the day
+agent.googleapis.com/memory/percent_used: Google Compute Engine RAM utilization over 80% for 51% of the day
+agent.googleapis.com/disk/percent_used: Google Compute Engine DISK utilization over 80% for 51% of the day
+compute.googleapis.com/instance/uptime_total: Google Compute Engine OS uptime longer than 30 days
+dataflow.googleapis.com/job/aggregated_worker_utilization: Dataflow aggregated work utilization over 80%
+dataproc.googleapis.com/cluster/job/completion_time: Dataproc average completion time increased by 20%
+file.googleapis.com/nfs/server/used_bytes_percent: Filestore used bytes above 80% 
+kubernetes.io/container/cpu/limit_utilization: Google Kubernetes Engine CPU utilization over 80% for 51% of the day
+kubernetes.io/container/memory/limit_utilization: Google Kubernetes Engine RAM utilization over 80% for 51% of the day
+kubernetes.io/pod/volume/utilization: Google Kubernetes Engine DISK utilization over 80% for 51% of the day
+iam.googleapis.com/service_account/authn_events_count: IAM average daily authentication request count increased by 20%
+loadbalancing.googleapis.com/https/request_count: Load Balancer average daily  request count increased by 20%
+networkconnectivity.googleapis.com/quota/active_vpc_spokes_per_hub/usage: Network Connectivity active VPC spokes increases / decreased by 20%
+networking.googleapis.com/router_appliance/gateway/egress_bytes_count: Networking average daily router egress packet count changed by 20%
+networking.googleapis.com/router_appliance/gateway/ingress_bytes_count: Networking average daily router ingress packet count changed by 20%
+networking.googleapis.com/vpn_tunnel/egress_bytes_count: Networking average daily VPN Tunnel egress packet count changed by 20%
+networking.googleapis.com/vpn_tunnel/ingress_bytes_count: Networking average daily VPN Tunnel ingress packet count changed by 20%
+vpn.googleapis.com/network/dropped_sent_packets_count: Networking VPN tunnel no longer active
+networksecurity.googleapis.com/dos/ingress_packets_count: Network Security average daily ingress packet count changed by 20%
+oracledatabase.googleapis.com/containerdatabase/transactions: Oracle Database average daily transaction count increased / decreased by 20%
+oracledatabase.googleapis.com/containerdatabase/transactions: Oracle Database average daily transaction count increased by 20%
+storage.googleapis.com/storage/total_bytes: Storage average daily storage bytes increased / decreased by 20%
